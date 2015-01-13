@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Dev tooling",
+    "packageVersion": "0.0.9",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "monkeycycle",
+    "githubRepository": "dev-tooling"
+  }
+}
